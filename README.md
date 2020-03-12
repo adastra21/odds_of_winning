@@ -66,5 +66,5 @@ Most importantly, I can improve the analysis by training xG on shots at game-lev
 ### Bayesian methods
 As a final note, I used xG to estimate how many goals a team will score in a season given the quality of their shots. With the help of Bayesian methods, I can answer the reverse question: Given a shot, which team is most likely to have scored the goal?
 
-### Acknowledgements
+## Acknowledgements
 Special thanks to Michael Akande (@akandelanre) for his feedback.
